@@ -1,5 +1,5 @@
 /**
- *  Java program to use print substring from till required index.
+ *  Java program to print substring from till required index.
  */
 
 package com.strings;
